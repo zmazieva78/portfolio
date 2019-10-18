@@ -1,3 +1,10 @@
 .navbar-nav {
   float: right;
 }
+body {
+  background-color: #cfd4d8;
+}
+p {
+  font-size: 18px;
+  
+}
