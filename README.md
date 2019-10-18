@@ -16,7 +16,7 @@ _This first project assignment for Epicodus Coding Bootcamp to create personal p
 
 ### My work
 
-_[Click here](https://github.com/zmazieva78) to see my Portfolio website_
+_[Click here](https://zmazieva78.github.io/portfolio/) to see my Portfolio website_
 
 
 Copyright (c) 2019 MIT _Zarina Mazieva_
