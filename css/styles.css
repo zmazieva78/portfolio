@@ -1,5 +1,15 @@
 .navbar-nav {
   float: right;
+  font-size: 18px;
+}
+.navbar {
+  padding: 10px;
+  border-style: outset;
+  border-width: 2px;
+}
+.panel {
+  border-style: outset;
+  border-width: 2px;
 }
 body {
   background-color: #cfd4d8;
@@ -12,5 +22,13 @@ span {
 }
 .panel-title {
   font-size: 24px;
-
+}
+.navbar-brand {
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+@media only screen and (max-width: 780px) {
+  nav li {
+    display: inline;
+  }
 }

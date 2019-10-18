@@ -1,7 +1,22 @@
-# portfolio
-author name
-project or program name
-description of program
-program setup instructions
-link to site on GitHub Pages
-copyright and license information
+***Project name:***
+# My Portfolio
+
+***Author:***
+_Zarina Mazieva_
+
+## Overview
+
+_This first project assignment for Epicodus Coding Bootcamp to create personal portfolio_
+
+## Technology used
+
+* _HTML5_
+* _CSS_
+* _Bootstrap_
+
+### My work
+
+_[Click here](https://github.com/zmazieva78) to see my Portfolio website_
+
+
+Copyright (c) 2019 MIT _Zarina Mazieva_
