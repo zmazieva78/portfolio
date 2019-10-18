@@ -10,3 +10,7 @@ p, dl {
 span {
   font-weight: bold;
 }
+.panel-title {
+  font-size: 24px;
+
+}
